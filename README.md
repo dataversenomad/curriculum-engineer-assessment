@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DeepLearning.AI Assessment - Training Loop For a Binary Classifier Network
 
 This repository provides a Jupyter Notebook for implementing a training loop for binary classification using a neural network, as part of the assessment for the Curricum Engineer opening.  
@@ -69,6 +68,3 @@ docker system prune
 **Date: 2024-03-04**
 
 
-=======
-# curriculum-engineer-assessment
->>>>>>> 6b058aa42e5ee5ce27dad9d4f452c9c68e65790a
