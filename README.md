@@ -16,10 +16,11 @@ git clone https://github.com/dataversenomad/curriculum-engineer-assessment.git
 
 ### 2. **Run the container to start Jupyter Lab Server**
 
-Once you have the repository cloned, navigate to the project folder where the Dockerfile and requirements.txt are placed, and build the Docker image using:
+Once you have the repository cloned, navigate to the project folder: **curriculum-engineer-assessment**
+
+where the Dockerfile and requirements.txt are placed, and build the Docker image using:
 
 ```bash
-docker build -t dlai_assessment .
 docker run -p 8888:8888 dlai_assessment
 ```
 
