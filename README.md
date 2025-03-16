@@ -58,8 +58,6 @@ Once you're inside Jupyter Lab, locate the notebook **01 - NN - Implement a trai
 
 Once you have completed your assignment and satisfied with your submission, **do not close the Jupyter Lab application**. Instead, open a new terminal window (or use your existing terminal if it's separate from the one running Jupyter) and run the following command to build the Docker image with your solution:
 
-This will rebuild the Docker image, incorporating all your changes.
-
 ```bash
 docker build -t dlai_ce_assessment .
 ```
@@ -73,6 +71,7 @@ After you're done using the application, you can stop the running Jupyter notebo
 ```bash
 docker stop <container_id>
 ```
+
 To remove unused Docker images and containers, clean up your Docker environment by running:
 
 ```bash
