@@ -2,7 +2,17 @@
 
 Welcome to the DeepLearning.Ai **Training Loop for Binary Classification using a Neural Network**. In this project, you will build a training loop for a neural network to solve a classification problem in machine learning. You will use a Jupyter notebook to complete this task. Everything is containerized using Docker for easy setup and execution on both **Windows** and **Linux** platforms.
 
-Please follow the steps below to complete the task. Once you finish your work, you will need to build the Docker image to share your solution.
+Before you get started, make sure you have at least 20 GB of available disk space (especially if you are working on Windows, as creating Docker images might take up space on your local machine). You can also run the following command to remove unused images, containers, and volumes after using the app:
+
+```bash
+docker system prune --all --volumes
+```
+
+This will help free up disk space used by Docker.
+
+
+Please follow the next steps below to complete your assessment. 
+
 
 ## Steps to Run the Application
 
