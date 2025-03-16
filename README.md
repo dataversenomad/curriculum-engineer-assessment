@@ -1,6 +1,6 @@
-# DEEPLEARNINGAI - Jupyter Lab Training Loop for Binary Classification
+# DeepLearning.Ai - Training Loop for Binary Classification using a Neural Network
 
-Welcome to the DeepLearning.Ai **training loop project for binary classification using a neural network**. In this project, you will build a training loop for a neural network to solve a classification problem in machine learning. You will use a Jupyter notebook to complete this task. Everything is containerized using Docker for easy setup and execution on both **Windows** and **Linux** platforms.
+Welcome to the DeepLearning.Ai **Training Loop for Binary Classification using a Neural Network**. In this project, you will build a training loop for a neural network to solve a classification problem in machine learning. You will use a Jupyter notebook to complete this task. Everything is containerized using Docker for easy setup and execution on both **Windows** and **Linux** platforms.
 
 Please follow the steps below to complete the task. Once you finish your work, you will need to build the Docker image to share your solution.
 
