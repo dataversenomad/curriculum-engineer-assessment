@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jupyter Notebook Environment
 
 jupyterlab == 4.2.2
@@ -13,19 +12,3 @@ matplotlib == 3.9.0
 seaborn==0.11.2
 torch == 2.3.1
 scikit-learn == 1.5.0
-=======
-# Jupyter Notebook Environment
-
-jupyterlab == 4.2.2
-ipywidgets == 8.1.3
-ipython==8.7.0
-
-# Learning Toolkit
-
-numpy == 1.26.4
-pandas == 2.2.2
-matplotlib == 3.9.0
-seaborn==0.11.2
-torch == 2.3.1
-scikit-learn == 1.5.0
->>>>>>> e179f08 (second commit DeepLearningAI)
